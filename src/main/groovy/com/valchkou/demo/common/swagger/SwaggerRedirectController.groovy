@@ -1,4 +1,4 @@
-package com.shoppertrak.saleslabor.common.swagger
+package com.valchkou.demo.common.swagger
 
 import groovy.util.logging.Slf4j
 import org.springframework.web.bind.annotation.RequestMapping

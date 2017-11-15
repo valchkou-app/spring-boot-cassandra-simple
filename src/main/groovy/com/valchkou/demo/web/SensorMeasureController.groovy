@@ -1,9 +1,9 @@
-package com.shoppertrak.saleslabor.web
+package com.valchkou.demo.web
 
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.shoppertrak.saleslabor.model.MeasureType
-import com.shoppertrak.saleslabor.model.SensorMeasureEntity
-import com.shoppertrak.saleslabor.repo.ISensorMeasureRepository
+import com.valchkou.demo.model.MeasureType
+import com.valchkou.demo.model.SensorMeasureEntity
+import com.valchkou.demo.repo.ISensorMeasureRepository
 import groovy.util.logging.Slf4j
 import io.swagger.annotations.Api
 import io.swagger.annotations.ApiOperation

@@ -1,4 +1,4 @@
-package com.shoppertrak.saleslabor.model
+package com.valchkou.demo.model
 
 import org.springframework.cassandra.core.PrimaryKeyType
 import org.springframework.data.cassandra.mapping.Column

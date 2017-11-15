@@ -1,6 +1,6 @@
-package com.shoppertrak.saleslabor.repo
+package com.valchkou.demo.repo
 
-import com.shoppertrak.saleslabor.model.SensorMeasureEntity
+import com.valchkou.demo.model.SensorMeasureEntity
 import org.springframework.data.cassandra.repository.CassandraRepository
 import org.springframework.data.cassandra.repository.Query
 import org.springframework.stereotype.Repository

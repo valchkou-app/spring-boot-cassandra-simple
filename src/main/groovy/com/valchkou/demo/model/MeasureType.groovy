@@ -1,4 +1,4 @@
-package com.shoppertrak.saleslabor.model
+package com.valchkou.demo.model
 
 enum MeasureType {
     TEMPERATURE,

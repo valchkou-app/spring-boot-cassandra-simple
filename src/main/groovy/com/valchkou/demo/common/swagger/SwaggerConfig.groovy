@@ -1,4 +1,4 @@
-package com.shoppertrak.saleslabor.common.swagger
+package com.valchkou.demo.common.swagger
 
 import com.fasterxml.classmate.TypeResolver
 import org.springframework.beans.factory.annotation.Autowired
